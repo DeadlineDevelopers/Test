@@ -1,1 +1,2 @@
 C:\HandShaker\Test\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Omer\Documents\Test\Test\Test\bin\Debug\Test.exe.config
